@@ -30,7 +30,7 @@
 <img src="https://github.com/Spidy20/Indian_Currency_Recognition/blob/master/Screenshot%20(51).png">
 
 ### 50 Rupees detection from image
-<img src="https://github.com/Spidy20/Indian_Currency_Recognition/blob/master/Screenshot%20(53).png">
+<img src="https://github.com/Spidy20/Indian_Currency_Recognition/blob/master/Screenshot%20(55).png">
 
 ### 100 Rupees detection from image
 <img src="https://github.com/Spidy20/Indian_Currency_Recognition/blob/master/Screenshot%20(54).png">
